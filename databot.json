@@ -1,0 +1,55 @@
+{
+    "status": 200,
+    "message": "success",
+    "result": [
+        {
+            "nomor": "6285230122985",
+            "jam": "19:00 WIB",
+            "event": "Toulon Cup",
+            "match": "Jepang U-19 vs Aljazair U-23",
+            "tv": "Streaming"
+        },
+        {
+            "nomor": "6285230122985",
+            "jam": "23:00 WIB",
+            "event": "UEFA Nations League",
+            "match": "Siprus vs Irlandia Utara",
+            "tv": "Streaming"
+        },
+        {
+            "nomor": "6283161562525",
+            "jam": "23:00 WIB",
+            "event": "UEFA Nations League",
+            "match": "Gibraltar vs Makedonia Utara",
+            "tv": "Streaming"
+        },
+      {
+            "nomor": "6283161562525",
+            "jam": "23:00 WIB",
+            "event": "UEFA Nations League",
+            "match": "Gibraltar vs Makedonia Utara",
+            "tv": "Streaming"
+        },
+      {
+            "nomor": "6283161562525",
+            "jam": "23:00 WIB",
+            "event": "UEFA Nations League",
+            "match": "Gibraltar vs Makedonia Utara",
+            "tv": "Streaming"
+        },
+      {
+            "nomor": "6283161562525",
+            "jam": "23:00 WIB",
+            "event": "UEFA Nations League",
+            "match": "Gibraltar vs Makedonia Utara",
+            "tv": "Streaming"
+        },
+      {
+            "nomor": "6283161562525",
+            "jam": "23:00 WIB",
+            "event": "UEFA Nations League",
+            "match": "Gibraltar vs Makedonia Utara",
+            "tv": "Streaming"
+        }
+    ]
+}
